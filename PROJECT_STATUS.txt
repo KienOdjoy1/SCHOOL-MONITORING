@@ -1,0 +1,6 @@
+MyCSU Companion - Java Android starter project
+
+This is source code, not a prebuilt APK. Open the folder in Android Studio,
+sync Gradle, then run or build an APK. The app's service buttons currently
+open the official MySchool portal homepage; direct internal pages and live
+data integration have not been verified.
